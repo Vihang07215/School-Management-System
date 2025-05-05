@@ -1,0 +1,35 @@
+{
+"name": "school-management-system",
+"version": "1.0.0",
+"main": "app.js",
+"description": "",
+"homepage": "",
+"license": "",
+"author": "","keywords": [],
+"scripts": {
+
+"start": "node app.js",
+"dev": "nodemon app.js"
+},
+"dependencies": {
+
+"bcryptjs": "^2.4.3",
+"mongoose": "5.12.4",
+"nodemon": "3.1.4",
+"dotenv": "8.2.0",
+"body-parser": "1.20.2",
+"express": "4.17.1",
+"jsonwebtoken": "8.5.1"
+
+},
+"bugs": {
+
+"url": "",
+"email": ""
+},
+"repository": {
+
+"type": "",
+"url": ""
+}
+}
